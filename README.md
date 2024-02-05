@@ -1,8 +1,7 @@
 # Record Linkage Workflow
 
-This Jupyter notebook provides insights into a workflow designed for record linkage tasks. Record linkage is a crucial step in data preprocessing, especially when working with datasets that originate from different sources or require deduplication and matching of records based on certain criteria.
+The project contains basic record linkage workflow.
 
-This notebook serves as a resource for individuals or teams working on data integration projects, focusing on the nuanced aspects of record linkage. It's designed to provide guidance on next steps after preliminary linkage efforts and strategies for managing difficult cases in record linkage tasks.
+This notebook introduces a record linkage workflow that includes a computation for candidate pairs and calculates scores. Additionally, the script for creating synthetic data has been included to support testing and development. The requirements.txt file contains the necessary packages to run the notebook. 
 
-For detailed understanding and application, users are encouraged to review the notebook's code which contain specific examples tailored to record linkage.
-
+The data itself is not included in the repository as a link to the Google Drive is provided in the notebook to download the data.
