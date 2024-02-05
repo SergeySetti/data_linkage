@@ -1,0 +1,9 @@
+pandas
+jupyter
+rapidfuzz
+pyarrow
+scikit-learn
+scipy
+python-Levenshtein
+recordlinkage
+numexpr

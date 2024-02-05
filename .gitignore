@@ -1,0 +1,5 @@
+/venv/
+/.idea/
+/*.parquet
+/data/
+!data/.gitkeep
